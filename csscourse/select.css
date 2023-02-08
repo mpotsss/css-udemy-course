@@ -1,0 +1,26 @@
+li {
+    color: blue;
+}
+
+.abu {
+    color: grey;
+}
+
+#ini {
+    background-color: red;
+    color: white;
+}
+
+button:hover {
+    background-color: chocolate !important;
+    color: white;
+}
+
+button:active {
+    background-color: aquamarine ;
+    color: red;
+}
+
+li::selection {
+    background-color: red;
+}
